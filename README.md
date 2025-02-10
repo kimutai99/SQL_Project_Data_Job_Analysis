@@ -1,6 +1,13 @@
 # SQL_Project_Data_Job_Analysis
-# Introduction
-📊 Exploring the data job market! This project delves into 💰 top-paying data analyst roles, 🔥 the most sought-after skills, and 📈 the intersection of high demand and high salaries in data analytics.
+# 📊 Exploring the Data Job Market  
+
+## Overview  
+This project delves into the **data job market**, analyzing:  
+- 💰 **Top-paying data analyst roles**  
+- 🔥 **Most sought-after skills in data analytics**  
+- 📈 **The intersection of high demand and high salaries**  
+
+Through data exploration and visualization, this project provides insights into the evolving landscape of **data analytics careers**, helping professionals and aspiring analysts make informed career decisions.
 
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
