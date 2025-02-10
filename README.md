@@ -53,6 +53,9 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering competitive salaries, highlighting demand across industries.
 - **Varied Job Titles:**  Roles range from Data Analyst to Director of Analytics, showcasing different specializations within the field.
 
+![Top Paying Roles](images/1_top_paying_roles.png)
+*Bar graph visualizing the salary for the top 10 salaries for data analysts;*
+
 ### 2. Skills Needed for High-Paying Jobs
 To identify the key skills for top-paying roles, I combined job postings with skills data. This helped reveal the most valued skills that employers seek for high-salary positions.
 ``` sql 
@@ -90,7 +93,8 @@ Most In-Demand Skills for Top-Paying Data Analyst Jobs (2024)
 - **Tableau** is also highly sought after, with a bold count of 6.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-
+![Top Paying Skills](images/2_top_paying_roles_skills.png)
+*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts;*
 ### 3. Most In-Demand Skills for Data Analysts
 
 This query analyzed job postings to uncover the skills employers seek most, highlighting the key areas of demand in the field.
@@ -123,9 +127,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2024
 | Python   | 4330         |
 | Tableau  | 3745         |
 | Power BI | 2609         |
-
 *Table of the demand for the top 5 skills in data analyst job postings*
-
 
 ### 4. Skills Based on Salary
 Analyzing average salaries for different skills helped identify which ones lead to the highest earnings.
@@ -163,7 +165,6 @@ Breakdown of Top-Paying Skills for Data Analysts:
 | jupyter       |            152,777 |
 | pandas        |            151,821 |
 | elasticsearch |            145,000 |
-
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 
@@ -239,3 +240,4 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
